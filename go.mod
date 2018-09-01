@@ -1,1 +1,1 @@
-module github.com/bgzxz/gomod
+module github.com/bgzxz/gomod/v2
