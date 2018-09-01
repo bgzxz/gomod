@@ -1,4 +1,2 @@
-github.com/bgzxz/gomod v1.0.0 h1:br38AJWCEXLzcVX9qB0Npgls5TXem48rqpmcz/vHOp0=
-github.com/bgzxz/gomod v1.0.0/go.mod h1:tUh5iDgdIL0i3CJZoKLfQT3SLGOk+Xxo2bLacpHn6PI=
-github.com/bgzxz/gomod v1.0.1 h1:h2hgTAAWLm0REN4mgzWiA3hs6WH0Arg/ie2GQ92Wa80=
-github.com/bgzxz/gomod v1.0.1/go.mod h1:tUh5iDgdIL0i3CJZoKLfQT3SLGOk+Xxo2bLacpHn6PI=
+github.com/bgzxz/gomod/v2 v2.0.0 h1:RNS88mqR2yMQF+jGGUizvP5rVOaVZbLHZaufVnoM8W4=
+github.com/bgzxz/gomod/v2 v2.0.0/go.mod h1:Ap2gbt9s/hYTSZTShhJ6YCswLO8JxINvRV2rPLu6CCQ=
